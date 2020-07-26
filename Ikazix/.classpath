@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13/">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.6.1/58e59bfb3e247097b8122243b3bfe0049c8cfae8/slf4j-simple-1.6.1.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.6.1/b0d4139adb22b57dc8e713fc0aa7ad396604efc8/slf4j-simple-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/bf945d1dc995be7fe64923625f842fbb6bf443be/log4j-1.2.16-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-core/3.0.8/460165ca362236342711ab4079a62a425ddc8f6b/discord4j-core-3.0.8.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-core/3.0.8/bb0ba6da12f9cc38b0ec5644d2a383d467eef445/discord4j-core-3.0.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/46a386136c901748e6a3af67ebde6c22bc6b4524/slf4j-api-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-rest/3.0.8/cb8c262667e21a5ae396cc5384c3036a84899f08/discord4j-rest-3.0.8.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-rest/3.0.8/e4948959d237cbad3828bd664baff1c321394629/discord4j-rest-3.0.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-gateway/3.0.8/ee55610e8461dad77710aa2cd0ff5162d4e59182/discord4j-gateway-3.0.8.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-gateway/3.0.8/4f8b42004048cc2737f9597050865d0b7e4b2fb2/discord4j-gateway-3.0.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-voice/3.0.8/111a5f2a874bd8b5bc32c3b9b2c923621b36cb98/discord4j-voice-3.0.8.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-voice/3.0.8/51b6a62d84d71e13dd0b2596a7eed9ba66d9939c/discord4j-voice-3.0.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/stores-jdk/3.0.7/cc6dd8cf0e6c1d24562b18e3c4a5497ed0224f8c/stores-jdk-3.0.7.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/stores-jdk/3.0.7/715afe14f82156a5f70527f628210c9065f913ab/stores-jdk-3.0.7-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-common/3.0.8/d442811cbfc0602908ed8f24c4e4092f43b37dd7/discord4j-common-3.0.8.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/discord4j-common/3.0.8/9adbf92199dbd9f59ea4d7a226fc3eeb668e5027/discord4j-common-3.0.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor.addons/reactor-extra/3.2.3.RELEASE/88fdf0c35d2632f381ceee2e2ddbc928da9ed1d2/reactor-extra-3.2.3.RELEASE.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor.addons/reactor-extra/3.2.3.RELEASE/c4d822d6fdbbb05cc1a813a4e602636fc716ca32/reactor-extra-3.2.3.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/simple-fsm/1.0.1/58cc3d3c4d25823eecb174a8e4807ba83299f36a/simple-fsm-1.0.1.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/simple-fsm/1.0.1/f92aaebabba377168a61a5bd2545b528265c8928/simple-fsm-1.0.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/stores-api/3.0.7/92792018499ceaf9ee7a38645d94ee8e5544005f/stores-api-3.0.7.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.discord4j/stores-api/3.0.7/9af6cc1cc10422d450718f4487edb9cd8c30a1a2/stores-api-3.0.7-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty/0.8.10.RELEASE/ab768253c91ecd24eb3ffee8baf03a5275e72e96/reactor-netty-0.8.10.RELEASE.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty/0.8.10.RELEASE/1ba05172d5daa28adda68c9b7acd449606471352/reactor-netty-0.8.10.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.9.9/4b04126963103216c9c43b0f34bbc36315654204/jackson-datatype-jdk8-2.9.9.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.9.9/dd2a21d5d75b2ac56da7508780c8acf88b727d15/jackson-datatype-jdk8-2.9.9-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.9/d6eb9817d9c7289a91f043ac5ee02a6b3cc86238/jackson-databind-2.9.9.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.9/8b717e1bc24a642cee070ae3860f04eb20c92779/jackson-databind-2.9.9-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.11.RELEASE/cb0bab6a6f9878e04e67088f5437b09012049c7/reactor-core-3.2.11.RELEASE.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.11.RELEASE/e71a16c95890e43f72c513b7e13814be0908bcf1/reactor-core-3.2.11.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.austinv11.servicer/Servicer/1.0.0/55e6948826f95144c65f8b8570f6ca1b64df766a/Servicer-1.0.0.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.austinv11.servicer/Servicer/1.0.0/2d20981ac7dffc4f44fed487f3ef30388bbc565c/Servicer-1.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.36.Final/ed198d8a5283910b0c062a50dd28ef4688dcb2a5/netty-codec-http2-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.36.Final/26d4bbd05a93c8d5b0e276bbf136a02359ec1832/netty-codec-http2-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.36.Final/f313f45db4417cd8a87c49b8cb01faf19f6abdec/netty-handler-proxy-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.36.Final/bd27d2a9935b54703f48614d05db6849a57e2/netty-handler-proxy-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.36.Final/62b73d439dbddf3c0dde092b048580139695ab46/netty-codec-http-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.36.Final/58da8ead360a1fa9c6c5aa29170c1709a4ec4e65/netty-codec-http-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.36.Final/1c38a5920a10c01b1cce4cdc964447ec76abf1b5/netty-handler-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.36.Final/659400fd913d797d556a4845f6d6b84cdc7b64b4/netty-handler-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.36.Final/8ec8e248ef34b86cc7fae023fb40b9ffa8f5614f/netty-transport-native-epoll-4.1.36.Final-linux-x86_64.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.36.Final/c2935b564d85c5946cc463eeba28dc2eb12cfc1b/netty-transport-native-epoll-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.9/bfff5af9fb8347d26bbb7959cb9b4fe9a2b0ca5e/jackson-core-2.9.9.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.9/c8a91180aef81d62f44b27cef42bacb168871a4c/jackson-core-2.9.9-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/fb592a3d57b11e71eb7a6211dd12ba824c5dd037/reactive-streams-1.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.36.Final/54bedfd0bec809898d5b8ff9cb9f3f9e427e967/netty-codec-socks-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.36.Final/2227ee8405d0f180385cf047038b74e7f33b5fe6/netty-codec-socks-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.36.Final/8462116d327bb3d1ec24258071f2e7345a73dbfc/netty-codec-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.36.Final/4b6e8ed4953e8fe15743522a64a72501788b2794/netty-codec-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.36.Final/d95d7033f400f9472db9da7834c443b96cd4bab0/netty-transport-native-unix-common-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.36.Final/94bab193e9440fb31e20e8d05d33e3f1ab4554da/netty-transport-native-unix-common-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.36.Final/8546e6be47be587acab86bbd106ca023678f07d9/netty-transport-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.36.Final/3bff68195ee2b6f9d75482bf55065d28f1883987/netty-transport-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.36.Final/7f2db0921dd57df4db076229830ab09bba713aeb/netty-buffer-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.36.Final/e74b98233c0848de62d2dc28b816446f327078e1/netty-buffer-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.36.Final/e4d243fbf4e6837fa294f892bf97149e18129100/netty-resolver-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.36.Final/306b83bf713545acf21adb5a8f4fcecb72e2e1ee/netty-resolver-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.36.Final/f6f38fde652a70ea579897edc80e52353e487ae6/netty-common-4.1.36.Final.jar" sourcepath="C:/Users/bawat/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.36.Final/61557a85cc76116230163c6f1edd808e53922ac/netty-common-4.1.36.Final-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
