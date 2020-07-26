@@ -9,7 +9,6 @@ import discord4j.core.object.entity.User;
 
 public class CommandListener {
 	
-	
 	public static void main(String[] args) {
 		DiscordClient client = new DiscordClientBuilder(System.getenv("DISCORD_CLEANUP_BOT_TOKEN")).build();
 		client.getEventDispatcher().on(MessageCreateEvent.class) // This listens for all events that are of MessageCreateEvent
