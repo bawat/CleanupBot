@@ -1,0 +1,1 @@
+heroku dyno:scale --app cleanup-bot worker=0:Free

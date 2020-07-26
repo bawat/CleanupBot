@@ -1,0 +1,1 @@
+heroku logs --app cleanup-bot --tail
