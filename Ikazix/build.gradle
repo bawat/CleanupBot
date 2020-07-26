@@ -19,7 +19,7 @@ repositories {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'Ikazix.commandListener'
+        attributes 'Main-Class': 'Ikazix.CommandListener'
     }
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
 }
