@@ -1,0 +1,1 @@
+worker: java -Xmx200m -jar build/libs/fat-build-1.0.jar
